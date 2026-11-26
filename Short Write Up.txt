@@ -1,0 +1,7 @@
+Project 5: Secure Linux Server Permissions
+
+Created Linux users and groups to implement user-based access control. Configured directory and file permissions using chmod and chown.
+
+The admin user was granted access to protected files, while the normal user was denied permission to read, access, or create files in the secure directory.
+
+This project demonstrates Linux user management, group management, and file permission security.
